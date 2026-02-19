@@ -237,9 +237,11 @@ export default function App() {
                     <h3 className="font-bold text-lg mb-1">Business Hours</h3>
                     <div className="grid grid-cols-2 gap-y-2 text-stone-600 max-w-xs">
                       <span>Mon – Fri:</span>
-                      <span className="font-medium">9:00 AM – 6:00 PM</span>
-                      <span>Sat – Sun:</span>
-                      <span className="font-medium">Closed / Verify on Google</span>
+                      <span className="font-medium">9:00 AM – 8:00 PM</span>
+                      <span>Sat:</span>
+                      <span className="font-medium">10:00 AM – 6:00 PM</span>
+                      <span>Sun:</span>
+                      <span className="font-medium">12:00 AM – 5:00 PM</span>
                     </div>
                     <p className="text-xs text-stone-400 mt-4 italic">* Hours may vary by source. Please verify on Google Business Profile before visiting.</p>
                   </div>
