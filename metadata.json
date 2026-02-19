@@ -1,0 +1,5 @@
+{
+  "name": "Universal Merchandise",
+  "description": "Jewelry, Electronics Accessories, and Phone Services in Mississauga (Westwood Square Mall). Gold, silver, repairs, and Lucky mobile activations.",
+  "requestFramePermissions": ["geolocation"]
+}
